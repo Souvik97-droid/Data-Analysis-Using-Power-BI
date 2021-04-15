@@ -4,4 +4,5 @@
 3) Attached SQL database to workflow.
 4) Performed DAX to merge columns as some amounts where in USD and we needed everything in INR. 
 5) Performed Power Query to make data models.
-5) Created an interactive dashboard using POWER BI.
+6) Created an interactive dashboard using POWER BI.
+7) Made mobile compatible dasboard as well.
